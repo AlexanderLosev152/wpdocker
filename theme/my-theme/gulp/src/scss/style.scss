@@ -1,0 +1,17 @@
+@forward '../../node_modules/normalize.css/normalize';
+@forward '../../node_modules/swiper/swiper-bundle';
+
+body {
+	background: #000;
+	color: #000;
+	padding: 2rem;
+	div {
+		background-color: #000;
+		padding: 2rem;
+		margin: 0;
+		border-radius: 50%;
+	}
+	h2 {
+		background: #000;
+	}
+}
